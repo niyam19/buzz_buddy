@@ -1,4 +1,4 @@
-# buzz_buddy
+# Buzz Buddy
 
 A real-time cross-platform chatting application built using Flutter and Dart, enabling users to connect and chat in real-time.
 
