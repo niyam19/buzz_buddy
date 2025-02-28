@@ -1,6 +1,13 @@
-# buzz_buddy
+# Buzz Buddy
 
-A new Flutter project.
+A real-time cross-platform chatting application built using Flutter and Dart, enabling users to connect and chat in real-time.
+
+Features
+- Real-Time Chat: Instant messaging with seamless communication.
+- Cross-Platform Support: Currently supports Android; can be extended to iOS with necessary dependencies.
+- Google Sign-In & Authentication: Secure and hassle-free user access.
+- Profile Management: Users can view, edit profiles, and showcase their photos for a personalized experience.
+- User Connection via Email: Add other users using their email addresses, but only if they have signed up, ensuring a secure and controlled network.
 
 ## Getting Started
 
